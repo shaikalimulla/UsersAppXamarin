@@ -1,0 +1,25 @@
+<RelativeLayout android:orientation="horizontal" android:layout_width="match_parent" android:id="@+id/action_bar_layout" android:layout_height="match_parent" android:paddingRight="@dimen/row_right_margin" android:paddingEnd="@dimen/row_right_margin" xmlns:android="http://schemas.android.com/apk/res/android"><!--
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/action_back"
+
+            android:onClick="goBack"
+            android:layout_weight="1"
+            android:background="@drawable/ic_chevron_left"
+            android:layout_gravity="center"
+            />
+    --><TextView android:text="" android:id="@+id/name" android:textSize="@dimen/header_text_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentLeft="true" android:clickable="true" /><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_centerInParent="true" android:text="" android:id="@+id/title" android:textSize="@dimen/header_text_margin" /><!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/notifyConfig"
+        android:textSize="@dimen/big_text_margin"
+
+        android:clickable="true"
+
+        />
+--><ImageButton android:layout_width="@dimen/settings_image_margin" android:layout_height="@dimen/settings_image_margin" android:id="@+id/notifyConfig" android:layout_centerVertical="true" android:layout_alignParentRight="true" /></RelativeLayout>

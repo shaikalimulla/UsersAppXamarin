@@ -1,0 +1,16 @@
+App1.LoginPage, App1;md5579855c995bdb073d8182511e793544c.LoginPage
+App1.LoginPage, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.LoginPage
+App1.LoginPage;md5579855c995bdb073d8182511e793544c.LoginPage
+app1.LoginPage;md5579855c995bdb073d8182511e793544c.LoginPage
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.UsersListAdapter, App1;md5579855c995bdb073d8182511e793544c.UsersListAdapter
+App1.UsersListAdapter, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.UsersListAdapter
+App1.UsersListAdapter;md5579855c995bdb073d8182511e793544c.UsersListAdapter
+app1.UsersListAdapter;md5579855c995bdb073d8182511e793544c.UsersListAdapter
+App1.UsersListAdapter/FieldReferences, App1;md5579855c995bdb073d8182511e793544c.UsersListAdapter_FieldReferences
+App1.UsersListAdapter+FieldReferences, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.UsersListAdapter_FieldReferences
+App1.UsersListAdapter.FieldReferences;md5579855c995bdb073d8182511e793544c.UsersListAdapter_FieldReferences
+app1.UsersListAdapter_FieldReferences;md5579855c995bdb073d8182511e793544c.UsersListAdapter_FieldReferences
